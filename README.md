@@ -146,7 +146,7 @@ python experiments/asymmetric_case.py
 ## Author
 
 Arpna Mishra  
-Interests: Nonlinear dynamics, cosmology, geometric mechanics, and reduced-order models of complex systems
+Interests: Nonlinear dynamics, cosmology, and reduced-order models of complex systems
 
 ---
 
